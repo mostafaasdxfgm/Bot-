@@ -1,0 +1,6 @@
+owner=408620940323192832
+prefix=1
+game=1play 
+stayinchannel=true
+songinstatus=false
+token=NTk2ODE2MzkyMzAxMzE0MDQ4.XR_C7w.NZho06Ussl72OwPkvRT7rJEv98I
